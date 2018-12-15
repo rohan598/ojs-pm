@@ -1,0 +1,6 @@
+todo list for js
+get dynamic data
+	articles
+	journals
+	issues - volumes
+get twitter feed (opt)
