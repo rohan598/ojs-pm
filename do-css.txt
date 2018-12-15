@@ -1,0 +1,7 @@
+todo list for css
+
+css template
+	cards
+	carousels
+	navbar
+	
